@@ -21,3 +21,7 @@ The game loads the Press Start 2P font from Google Fonts when an internet connec
 ## Deploy
 
 This is a static web project and can be deployed with GitHub Pages, Netlify, Vercel, or any static hosting service. The entry point is `index.html`.
+
+https://gamee-psi-nine.vercel.app/
+
+here is the deployed link to play the game
